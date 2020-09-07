@@ -31,7 +31,7 @@ Por fim,
 Para esse trabalho, foram utilizados vários dados diferentes, disponibilizados pela professora da matéria de Redes neurais, Elloá B. Guedes.  
 O primeiro conjunto de dados utilizado foi [dataAll.txt](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte1/dataAll.txt).  
 O segundo conjunto utilizado foi [data2.txt](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte2/data2.txt).  
-O terceiro conjutno utilizado foi o [dataHoldout.txt] (*atualizar*).  
+O terceiro conjunto utilizado foi o [dataHoldout.txt] (*atualizar*).  
   
 Apesar de estarem escritos em formato .txt, todos esses 3 conjunto de dados estão em formato de ndarray, usado pela biblioteca do numpy.  
 Para utilizar esses dados apropiadamente, o grupo teve que importá-lo corretamente nos notebooks utilizados.  
