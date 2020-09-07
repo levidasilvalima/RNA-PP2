@@ -1,6 +1,7 @@
 # Redes Neurais Artificiais
 ## Projeto Prático 2
-Saudações, companheiro!  
+Saudações, *companheiro*!  
+  
 Esse repositório contém o trabalho prático 2 para a obtenção de nota parcial na matéria de Redes Neurais Artificais.  
 A matéria está sendo feita na Universidade do Estado do Amazonas(UEA), Escola Superior de Tecnologia(EST).  
 Para qualquer pergunta eventual, os integrantes do grupo e seus respectivos e-mails estão logo abaixo.  
