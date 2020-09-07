@@ -9,7 +9,7 @@ Para qualquer pergunta eventual, os integrantes do grupo e seus respectivos e-ma
 Daniel Akio (dac.eng17@uea.edu.br)  
 Ian Alves (igaps.eng17@uea.edu.br)  
 Levi da Silva (ldsl.eng16@uea.edu.br)  
-Francisco Arcos (fepaf.eng@uea.edu.br )  
+William Azevedo (wads.eng16@uea.edu.br)  
 
 ### Resumo:
 Esse foi um trabalho desenvolvido para a análise e aprendizado de redes neurais e neurônios perceptrons.  
@@ -33,7 +33,7 @@ O primeiro conjunto de dados utilizado foi [dataAll.txt](https://github.com/levi
 O segundo conjunto utilizado foi [data2.txt](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte2/data2.txt).  
 O terceiro conjutno utilizado foi o [dataHoldout.txt] (*atualizar*).  
   
-Apesar de estar escrito .txt, todos esses 3 conjunto de dados estão em formato de ndarray, usado pela biblioteca do numpy.  
+Apesar de estarem escritos em formato .txt, todos esses 3 conjunto de dados estão em formato de ndarray, usado pela biblioteca do numpy.  
 Para utilizar esses dados apropiadamente, o grupo teve que importá-lo corretamente nos notebooks utilizados.  
 
 ### Notebooks utilizados:
