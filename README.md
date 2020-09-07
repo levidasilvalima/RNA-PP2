@@ -14,9 +14,9 @@ William Azevedo (wads.eng16@uea.edu.br)
 ### Resumo:
 Esse foi um trabalho desenvolvido para a análise e aprendizado de redes neurais e neurônios perceptrons.  
 No trabalho, se desenvolveu o algoritmo que implementa o neurônio perceptron de Rosenblatt ([Descrito no artigo dele, de 1958](https://doi.org/10.1037%2Fh0042519)).  
-Ainda no trabalho, o algoritmo completou sua função e encontrou uma reta que separava dois conjuntos de dados linearmente separáveis.  
-Além disso, construiu-se um algoritmo capaz executar o algoritmo do neurônio perceptron centenas de vezes.  
-Com os dados gerados por essas execuções, foi possível descobrir vários elementos estatísticos interessantes, como a média e desvio padrão.  
+Ainda no mesmo algoritmo, se completou a função e foi encontrado uma reta que separava dois conjuntos de dados linearmente separáveis.  
+Fora isso, construiu-se um outro algoritmo, este é capaz executar o mesmo algoritmo do neurônio perceptron centenas de vezes.  
+Com os dados gerados por essas execuções, foi possível descobrir vários elementos estatísticos interessantes, como a média e desvio padrão das épocas e ajustes totais de cada treinamento.  
 Por fim,   
 (*Escrever quando acabar a parte 3*)  
 
@@ -24,17 +24,24 @@ Por fim,
 ### Ferramentas utilizadas:
 [Python 3](https://www.python.org/)  
 [Google Colab](https://colab.research.google.com/)  
+[Visual Studio Code](https://code.visualstudio.com/)
 [Numpy](https://numpy.org/)  
 [Matplotlib](https://matplotlib.org/)  
+
+### Ambientes trabalhados:
+Na realização deste trabalho, houveram integrantes da equipe que preferiram trabalhar com os Notebooks localmente, usando os notebook Jupyter no Visual Studio Code.  
+Enquanto isso, outros integrantes preferiram trabalhar na ferramenta do Google Colab.  
+Por tanto, os dois ambientes foram utilizados para o trabalho, as únicas diferenças que o uso dessas ferramentas trouxeram foram algumas leves diferenças em como os dados são importados para o notebook.  
+Fora isso, nada mais foi modificado para conter esses diferentes ambientes.
 
 ### Dados utilizados:
 Para esse trabalho, foram utilizados vários dados diferentes, disponibilizados pela professora da matéria de Redes neurais, Elloá B. Guedes.  
 O primeiro conjunto de dados utilizado foi [dataAll.txt](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte1/dataAll.txt).  
 O segundo conjunto utilizado foi [data2.txt](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte2/data2.txt).  
-O terceiro conjunto utilizado foi o [dataHoldout.txt] (*atualizar*).  
+O terceiro conjunto utilizado foi o [dataHoldout.txt](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte3/dataHoldout.txt).  
   
 Apesar de estarem escritos em formato .txt, todos esses 3 conjunto de dados estão em formato de ndarray, usado pela biblioteca do numpy.  
-Para utilizar esses dados apropiadamente, o grupo teve que importá-lo corretamente nos notebooks utilizados.  
+Para utilizar esses dados apropiadamente, o grupo teve que importá-lo corretamente nos notebooks utilizados. Foram estes arquivos que proporcionaram as diferenças dos ambientes trabalhados.  
 
 ### Notebooks utilizados:
 O notebook jupyter utilizado está disponível no repositório, link abaixo.  
