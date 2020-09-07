@@ -3,7 +3,7 @@
 Saudações, companheiro!  
 Esse repositório contém o trabalho prático 2 para a obtenção de nota parcial na matéria de Redes Neurais Artificais.  
 A matéria está sendo feita na Universidade do Estado do Amazonas(UEA), Escola Superior de Tecnologia(EST).  
-Qualquer pergunta eventual, os integrantes do grupo e seus respectivos e-mails estão logo abaixo.  
+Para qualquer pergunta eventual, os integrantes do grupo e seus respectivos e-mails estão logo abaixo.  
 
 ### Grupo:
 Daniel Akio (dac.eng17@uea.edu.br)  
@@ -15,7 +15,7 @@ Francisco Arcos (fepaf.eng@uea.edu.br )
 Esse foi um trabalho desenvolvido para a análise e aprendizado de redes neurais e neurônios perceptrons.  
 No trabalho, se desenvolveu o algoritmo que implementa o neurônio perceptron de Rosenblatt ([Descrito no artigo dele, de 1958](https://doi.org/10.1037%2Fh0042519)).  
 Ainda no trabalho, o algoritmo completou sua função e encontrou uma reta que separava dois conjuntos de dados linearmente separáveis.  
-Além disso, construiu-se um algortimo capaz executar o algoritmo do neurônio perceptron centenas de vezes.  
+Além disso, construiu-se um algoritmo capaz executar o algoritmo do neurônio perceptron centenas de vezes.  
 Com os dados gerados por essas execuções, foi possível descobrir vários elementos estatísticos interessantes, como a média e desvio padrão.  
 Por fim,   
 (*Escrever quando acabar a parte 3*)  
