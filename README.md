@@ -25,7 +25,7 @@ Por fim,
 ### Ferramentas utilizadas:
 [Python 3](https://www.python.org/)  
 [Google Colab](https://colab.research.google.com/)  
-[Visual Studio Code](https://code.visualstudio.com/)
+[Visual Studio Code](https://code.visualstudio.com/)  
 [Numpy](https://numpy.org/)  
 [Matplotlib](https://matplotlib.org/)  
 
@@ -54,4 +54,5 @@ O notebook jupyter utilizado está disponível no repositório, link abaixo.
 (Preencher?) 
 
 ### Bibliografia:
-* Faceli et al. (2011) - Inteligência Artificial: Uma abordagem de aprendizado de máquina. Editora LTC. [Link](https://www.amazon.com.br/Machine-Learning-Algorithmic-Perspective-Recognition-ebook/dp/B00OGLE56Y?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=marsland+machine+learning&qid=1521553865&sr=1-1-spell&ref=sr_1_1)
+* Faceli et al. (2012) - Inteligência Artificial: Uma abordagem de aprendizado de máquina. Editora LTC. [Link](https://www.amazon.com.br/Machine-Learning-Algorithmic-Perspective-Recognition-ebook/dp/B00OGLE56Y?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=marsland+machine+learning&qid=1521553865&sr=1-1-spell&ref=sr_1_1)
+* Braga et al. (2011) - Redes Neurais Artificiais – Teoria e Prática. Editora LTC. [Link](https://www.amazon.com.br/Redes-Neurais-Artificiais-Teoria-Aplica%C3%A7%C3%B5es/dp/8521615647)
