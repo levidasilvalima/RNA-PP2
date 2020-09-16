@@ -48,10 +48,7 @@ Para utilizar esses dados apropiadamente, o grupo teve que importá-lo corretame
 O notebook jupyter utilizado está disponível no repositório, link abaixo.  
 [Parte 1](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte1/PP2_parte1.ipynb)  
 [Parte 2](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte2/PP2_parte2.ipynb)  
-[Parte 3]  (Preencher quando fazer parte 3)  
-
-### Relatório:
-(Preencher?) 
+[Parte 3](https://github.com/levidasilvalima/RNA-PP2/blob/master/Parte3/PP2_parte3.ipynb)  
 
 ### Bibliografia:
 * Faceli et al. (2012) - Inteligência Artificial: Uma abordagem de aprendizado de máquina. Editora LTC. [Link](https://www.amazon.com.br/Machine-Learning-Algorithmic-Perspective-Recognition-ebook/dp/B00OGLE56Y?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=marsland+machine+learning&qid=1521553865&sr=1-1-spell&ref=sr_1_1)
