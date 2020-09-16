@@ -18,8 +18,7 @@ No trabalho, se desenvolveu o algoritmo que implementa o neurônio perceptron de
 Ainda no mesmo algoritmo, se completou a função e foi encontrado uma reta que separava dois conjuntos de dados linearmente separáveis.  
 Fora isso, construiu-se um outro algoritmo, este é capaz executar o mesmo algoritmo do neurônio perceptron centenas de vezes.  
 Com os dados gerados por essas execuções, foi possível descobrir vários elementos estatísticos interessantes, como a média e desvio padrão das épocas e ajustes totais de cada treinamento.  
-Por fim,   
-(*Escrever quando acabar a parte 3*)  
+Por fim, na terceira parte foi trabalhado a Validação Holdout em Problema Não-Linearmente Separável, onde foi possível treinar um perceptron para gerar uma reta na tentativa de separar um plano com pontos que não eram completamente linearmente separáveis. Após esse treinamento foi feita a validação do modelo (com dados destinados para teste) usado métricas como acurácia, precisão, revocação e F-Score.
 
 
 ### Ferramentas utilizadas:
